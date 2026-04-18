@@ -103,7 +103,7 @@ paper.pdf
 ## Installation  
 
 Clone the repository:  
-git clone https://github.com/your-username/sentiment-analysis-multiple-models.git  
+git clone https://github.com/sansam637/sentiment-analysis-multiple-models.git  
 
 Navigate to project folder:  
 cd sentiment-analysis-multiple-models  
